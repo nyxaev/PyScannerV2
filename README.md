@@ -1,6 +1,6 @@
 <div align="center">
 
-# Port Scanner
+# Port Scanner Public Version
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=TCP+Port+Scanner;Network+Security+Tool;Built+with+Python" alt="Typing SVG" />
 
